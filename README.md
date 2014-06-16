@@ -17,7 +17,7 @@ remove 1 hosted virus counter or trash Crypsi
 ======
 
 
-Program Name and Description from Actual Card from Android Netrunner.
+Program Name and Description are from an actual card on Android Netrunner.
 
 This repository will serve as my playing ground as I experiment 'things' with Github.
 
