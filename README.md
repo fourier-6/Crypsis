@@ -22,6 +22,6 @@ Program Name and Description are from an actual card on Android Netrunner.
 
 This repository will serve as my playing ground as I experiment 'things' with Github.
 
-Likely, it will contain bunch of notes, meditations (Marcus Airelius Style) with no particular audience in mind.
+Likely, it will contain bunch of notes, thoughts, meditations with no particular audience in mind.
 
 "This moment exists forever, and you are it's only audience" - Nietzsche
